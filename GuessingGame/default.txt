@@ -1,0 +1,21 @@
+Q:Is it an animal?
+Q:Can it fly?
+A:falcon
+Q:Can it swim?
+A:shark
+Q:Does it bark?
+A:dog
+Q:Does it eat bananas?
+A:monkey
+A:wolf
+Q:Is it a plant?
+A:rose
+Q:Is it considered food?
+Q:Is it made of flour?
+A:bread
+A:chocolate
+Q:Does it have wheels?
+Q:Does it have two wheels?
+A:bicycle
+A:car
+A:building

@@ -1,0 +1,64 @@
+
+Name: Tellon Smith
+Course: CS 3013 - Advanced Structures and Algorithms, Spring 16, Dr. Johnson
+Program Assignment: #3
+Due Date: Thursday, Mar. 31, 2016, 2PM
+Purpose: This program uses a binary search tree to implement a guessing game.
+The program will load a default database with a few simple questions it will
+ask the user or it can load a custom or updated database. If the guess is
+incorrect the program will update its database by asking the user a series
+of questions
+
+Welcome to the Guessing Game Program!
+
+----------------------------------------------------------------------
+                     Guessing Game Program
+----------------------------------------------------------------------
+
+Enter the database filename (enter 'default.txt' to use the default database): default.txt
+
+Database loaded successfully! Think of something and I would try to guess it :)
+
+Is it an animal? (y/n)
+y
+Can it fly? (y/n)
+n
+Can it swim? (y/n)
+n
+Does it bark? (y/n)
+n
+Are you thinking of a(n) wolf? (y/n)
+n
+You win!
+What were you thinking of?
+monkey
+Please enter a question to distinguish a(n) wolf from a(n) monkey:
+Does it eat bananas?
+If you were thinking of a(n) monkey, what would the answer to that question be? (y/n)
+y
+Thank you! My database has been updated
+would you like to play again? (y/n)
+y
+Is it an animal? (y/n)
+y
+Can it fly? (y/n)
+n
+Can it swim? (y/n)
+n
+Does it bark? (y/n)
+n
+Does it eat bananas? (y/n)
+y
+Are you thinking of a(n) monkey? (y/n)
+y
+The Computer Wins!
+would you like to play again? (y/n)
+n
+The database has been updated... Would you like to export it? (y/n)
+y
+Enter a filename to save the updated database to: default.txt
+
+Database exported!
+
+Thank you for using the Guessing Game Program... Goodbye!
+Press any key to continue . . .
